@@ -1,4 +1,5 @@
 # Oficina de Programação e Laboratório - UFU 2020 - Tarefa 3
+Códigos estarão disponíveis após a dada de entrega da atividade - 15/09
 
 ## Exercício 1 
 Faça um programa para verificar se um determinado número inteiro,fornecido pelo usuário, é divisível por 3 ou 5, mas não simultaneamente pelos dois. Se acondição supracitadafor atendida, imprimaa mensagem “VERDADEIRO\n”; caso contrário, imprima a mensagem “FALSO\n”.
