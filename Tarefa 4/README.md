@@ -16,7 +16,7 @@ Faça um programa que converta coordenadas polares para cartesianas:
 
 -Crie outro ponto, agora em coordenada cartesiana, composto por x e y, sabendo que x = r * cos(a)e y = r * sin(a).
 
-No programa principal, leia um ponto em coordenada polar e mostre as coordenadas doponto gerado no plano cartesiano. Crie estruturas (structs) para representar os pontos nos dois sistemas de coordenadas. Dica: use as funções sin() e cos() da biblioteca <math.h>.Use float com 2 casas decimais de precisão.
+No programa principal, leia um ponto em coordenada polar e mostre as coordenadas do ponto gerado no plano cartesiano. Crie estruturas (structs) para representar os pontos nos dois sistemas de coordenadas. Dica: use as funções sin() e cos() da biblioteca <math.h>. Use float com 2 casas decimais de precisão.
 (5pontos)
 
 ## Exercício 4
