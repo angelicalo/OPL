@@ -6,7 +6,7 @@ O Código de César é uma das mais simples e conhecidas técnicas de criptograf
 (5pontos)
 
 ## Exercício 2 
-Reimplemente o programa do exercício anteriorde modo que o mesmo leia o arquivo texto arq.txtdo diretório corrente do disco  e retorne a string codificada com o Código de César de 3 posições. Para a submissão, basta fazer upload do arquivo .c, pois o arquivo de texto arq.txt já na raiz dos testes.
+Reimplemente o programa do exercício anteriorde modo que o mesmo leia o arquivo texto arq.txt do diretório corrente do disco  e retorne a string codificada com o Código de César de 3 posições. Para a submissão, basta fazer upload do arquivo .c, pois o arquivo de texto arq.txt já na raiz dos testes.
 (5pontos)
 
 ## Exercício 3
@@ -16,7 +16,7 @@ Faça um programa que converta coordenadas polares para cartesianas:
 
 -Crie outro ponto, agora em coordenada cartesiana, composto por x e y, sabendo que x = r * cos(a)e y = r * sin(a).
 
-No programa principal, leia um ponto em coordenada polar e mostre as coordenadas doponto gerado no plano cartesiano.Crie estruturas (structs) para representar os pontos nos dois sistemas de coordenadas. Dica: use as funções sin() e cos() da biblioteca <math.h>.Use float com 2 casas decimais de precisão.
+No programa principal, leia um ponto em coordenada polar e mostre as coordenadas doponto gerado no plano cartesiano. Crie estruturas (structs) para representar os pontos nos dois sistemas de coordenadas. Dica: use as funções sin() e cos() da biblioteca <math.h>.Use float com 2 casas decimais de precisão.
 (5pontos)
 
 ## Exercício 4
