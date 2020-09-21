@@ -20,5 +20,5 @@ No programa principal, leia um ponto em coordenada polar e mostre as coordenadas
 (5pontos)
 
 ## Exercício 4
-Dadas duas strings lidas do teclado, a primeira contendo uma frase (tamanho máximo 256 caracteres) e a segunda contendo uma palavra (tamanho máximo 8 caracteres), determine o número de vezes que a palavra ocorre na frasee o imprima na tela.
+Dadas duas strings lidas do teclado, a primeira contendo uma frase (tamanho máximo 256 caracteres) e a segunda contendo uma palavra (tamanho máximo 8 caracteres), determine o número de vezes que a palavra ocorre na frase e o imprima na tela.
 (5pontos)
